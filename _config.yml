@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-book" #Change to Orc!!
       url: "https://orcid.org/0009-0005-9672-4605"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/kaj-stolle-311a2420a" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
